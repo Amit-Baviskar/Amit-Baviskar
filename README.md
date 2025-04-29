@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-baviskar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-baviskar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://amit-baviskar.github.io/website/](https://amit-baviskar.github.io/website/)
+- 👨‍💻 All of my projects are available at [[https://amit-baviskar.github.io/website/](https://lean-banjo-114.notion.site/Hi-I-Am-Amit-Baviskar-18ecd05b6ad780bfa428d5d924d2ce42)]([https://amit-baviskar.github.io/website/](https://lean-banjo-114.notion.site/Hi-I-Am-Amit-Baviskar-18ecd05b6ad780bfa428d5d924d2ce42))
 
 - 📫 How to reach me **amitbaviskar96@gmail.com**
 
